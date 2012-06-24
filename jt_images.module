@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the jt_images feature.
+ */
+
+include_once 'jt_images.features.inc';
